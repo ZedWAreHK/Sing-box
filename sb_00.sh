@@ -136,7 +136,7 @@ generate_config() {
     ],
     "transport": {
       "type": "ws",
-      "path": "/vmess-argo",
+      "path": "/powered-by-zedware-network/zedware/",
       "early_data_header_name": "Sec-WebSocket-Protocol"
       }
     },
